@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.custom_form{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+s
+}
